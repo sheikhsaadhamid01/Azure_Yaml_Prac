@@ -1,0 +1,40 @@
+---
+name: "Saad"
+age: 37
+pi: 3.14
+
+male: true
+french-hens: 3
+
+students:
+-"john"
+-"time"
+-"helen"
+"jake"
+
+remarks:
+- 5
+- "john"
+- 6
+- "matt"
+
+# This is a comment
+
+items: [1,2,3,4,5]
+names: ["one", "two","three","four"]
+
+
+urdu-to-english : {badal: cloud, barish: rain}
+
+food:
+  breakfast:
+    -pancakes
+    -waffles
+    -eggs
+  
+  lunch:
+    -pizza
+    -pasta
+    -truffles
+  
+  
