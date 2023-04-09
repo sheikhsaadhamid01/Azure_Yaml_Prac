@@ -8,10 +8,10 @@ vegtables:
   - "Mushrooms"
   - "Pumpkin"
 
-  fruits: ["Orange","Banana", "Peach", "Water Mellon", "Strawberry"]
+fruits: ["Orange","Banana", "Peach", "Water Mellon", "Strawberry"]
 
-  ...
-  ---
+...
+---
   #Make a Student result card showing grades in 5 subjects
   student: 
     - Mathematics: 80
@@ -20,7 +20,7 @@ vegtables:
     - Data-Structures: 82
     - Machine-Learning: 78
 
-  ...
+...
 
-  ---
+---
   student: {Mathematics : 80, Computers-Science : 90, Programming : 78, Data-Structures: 82, Machine-Learning: 78 }
